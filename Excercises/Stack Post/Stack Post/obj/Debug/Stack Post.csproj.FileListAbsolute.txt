@@ -1,0 +1,6 @@
+d:\onedrive\documenti\visual studio 2015\Projects\Stack Post\Stack Post\bin\Debug\Stack Post.exe.config
+d:\onedrive\documenti\visual studio 2015\Projects\Stack Post\Stack Post\bin\Debug\Stack Post.exe
+d:\onedrive\documenti\visual studio 2015\Projects\Stack Post\Stack Post\bin\Debug\Stack Post.pdb
+d:\onedrive\documenti\visual studio 2015\Projects\Stack Post\Stack Post\obj\Debug\Stack Post.csprojResolveAssemblyReference.cache
+d:\onedrive\documenti\visual studio 2015\Projects\Stack Post\Stack Post\obj\Debug\Stack Post.exe
+d:\onedrive\documenti\visual studio 2015\Projects\Stack Post\Stack Post\obj\Debug\Stack Post.pdb

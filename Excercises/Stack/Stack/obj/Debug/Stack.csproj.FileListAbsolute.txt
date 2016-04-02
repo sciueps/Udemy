@@ -1,0 +1,6 @@
+D:\OneDrive\Documenti\Visual Studio 2015 spro2\Projects\Stack\Stack\bin\Debug\Stack.exe.config
+D:\OneDrive\Documenti\Visual Studio 2015 spro2\Projects\Stack\Stack\bin\Debug\Stack.exe
+D:\OneDrive\Documenti\Visual Studio 2015 spro2\Projects\Stack\Stack\bin\Debug\Stack.pdb
+D:\OneDrive\Documenti\Visual Studio 2015 spro2\Projects\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documenti\Visual Studio 2015 spro2\Projects\Stack\Stack\obj\Debug\Stack.exe
+D:\OneDrive\Documenti\Visual Studio 2015 spro2\Projects\Stack\Stack\obj\Debug\Stack.pdb

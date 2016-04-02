@@ -1,0 +1,6 @@
+D:\OneDrive\Documenti\visual studio 2015 Enterprise\Projects\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+D:\OneDrive\Documenti\visual studio 2015 Enterprise\Projects\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+D:\OneDrive\Documenti\visual studio 2015 Enterprise\Projects\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+D:\OneDrive\Documenti\visual studio 2015 Enterprise\Projects\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documenti\visual studio 2015 Enterprise\Projects\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+D:\OneDrive\Documenti\visual studio 2015 Enterprise\Projects\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
